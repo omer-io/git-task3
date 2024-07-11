@@ -1,4 +1,4 @@
 this is line 1 from main
 this is line 2 from main
-this is line 3 from feature 1
+this is line 3 from main
 this is line 4 from feature 1
